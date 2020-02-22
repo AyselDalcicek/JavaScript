@@ -1,0 +1,19 @@
+{
+    "Aysel":{
+        "Name": "Aysel Dalcicek",
+        "ID":"12",
+        "Salary":"100000"
+    },
+
+    "Kadir":{
+        "Name": "Kadir Dalcicek",
+        "ID":"13",
+        "Salary":"120000"
+    },
+
+    "Zeynep":{
+        "Name": "Zeynep Dalcicek",
+        "ID":"14",
+        "Salary":"150000"
+    }
+}
